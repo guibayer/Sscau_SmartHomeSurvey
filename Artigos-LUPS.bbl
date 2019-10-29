@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{weiser1991}
+Mark Weiser.
+\newblock {The Computer for the 21st Century}.
+\newblock {\em Scientific American}, 265(3):94--104, September 1991.
+
+\bibitem{Krikke2005}
+Jan Krikke.
+\newblock T-engine: Japan's ubiquitous computing architecture is ready for
+  prime time.
+\newblock {\em IEEE Pervasive Computing}, 4:4--9, April 2005.
+
+\bibitem{Yamin2005}
+Adenauer Yamin, Iara Augustin, Luciano~Cavalheiro da~Silva, Rodrigo~Araujo
+  Real, Alberto E.~Schaeffer Filho, and Claudio F.~Resin Geyer.
+\newblock Exehda: adaptive middleware for building a pervasive grid
+  environment.
+\newblock In {\em Proceeding of the 2005 conference on Self-Organization and
+  Autonomic Informatics (I)}, pages 203--219, Amsterdam, The Netherlands, The
+  Netherlands, 2005. IOS Press.
+
+\bibitem{Yamin04}
+Adenauer~Corrêa Yamin.
+\newblock Arquitetura para um ambiente de grade computacional direcionada às
+  aplicações distribuídas, móveis e conscientes de contexto da computação
+  pervasiva.
+\newblock Tese de doutorado em ciência da computação, Instituto de
+  Informática-UFRGS, Porto Alegre-RS, 2004.
+
+\bibitem{Schilit94}
+Bill~N. Schilit and Marvin~M. Theimer.
+\newblock Disseminating active map information to mobile hosts, 1994.
+
+\bibitem{araujo2003}
+R.~B. Araujo.
+\newblock Computação ubíqua: princípios, tecnologias e desafios.
+\newblock {\em XXI Simpósio Brasileiro de Redes de Computadores}, pages
+  45--115, 2003.
+
+\bibitem{Foster2001}
+Ian Foster, Carl Kesselman, and Steven Tuecke.
+\newblock The anatomy of the grid: Enabling scalable virtual organizations.
+\newblock {\em Int. J. High Perform. Comput. Appl.}, 15:200--222, August 2001.
+
+\bibitem{Foster1999}
+Ian Foster and Carl Kesselman, editors.
+\newblock {\em The grid: blueprint for a new computing infrastructure}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1999.
+
+\bibitem{foster2002}
+Ian Foster, Carl Kesselman, Jeffrey~M. Nick, and Steven Tuecke.
+\newblock Grid services for distributed system integration.
+\newblock {\em Computer}, 35:37--46, June 2002.
+
+\bibitem{foster2003}
+Ian Foster and Carl Kesselman.
+\newblock {\em The Grid 2: Blueprint for a New Computing Infrastructure}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 2003.
+
+\bibitem{asad2005}
+Parvin Asadzadeh, Rajkumar Buyya, Chun~Ling Kei, Deepa Nayar, and Srikumar
+  Venugopal.
+\newblock Global grids and software toolkits: A study of four grid middleware
+  technologies.
+\newblock In {\em HIGH PERFORMANCE COMPUTING: PARADIGM AND INFRASTRUCTURE,
+  LAURENCE YANG AND MINYI GUO (EDS), ISBN: 0-471-65471-X}. Wiley Press, 2005.
+
+\bibitem{aleteia2008}
+Aletéia Patrícia~Favacho Araújo.
+\newblock Paralelização autonômica de metaheurísticas em ambientes de grid.
+\newblock Tese de doutorado em ciência da computação, Pontifícia Universidade
+  Católica do Rio de Janeiro/PUC-Rio, Rio de Janeiro$,$RJ, 2008.
+
+\bibitem{baker2002}
+Mark Baker, Rajkumar Buyya, and Domenico Laforenza.
+\newblock Grids and grid technologies for wide-area distributed computing.
+\newblock {\em Softw. Pract. Exper.}, 32:1437--1466, December 2002.
+
+\bibitem{Casanova01}
+Henri Casanova.
+\newblock Simgrid: A toolkit for the simulation of application scheduling.
+\newblock In {\em Proceedings of the 1st International Symposium on Cluster
+  Computing and the Grid}, CCGRID '01, pages 430--, Washington, DC, USA, 2001.
+  IEEE Computer Society.
+
+\end{thebibliography}
